@@ -1,3 +1,3 @@
 # hello-world
 
-Class exercise for building continuous integration pipeline course.
+Class exercise for building continuous integration pipeline course using CircleCI.
