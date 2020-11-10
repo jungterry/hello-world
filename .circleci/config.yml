@@ -9,7 +9,7 @@ jobs:
       - run: return 1
       - run:
           name: Failed Test
-          command: ech "Test failed!""
+          command: echo "Test failed!""
           when: on_fail
 
 workflows:
