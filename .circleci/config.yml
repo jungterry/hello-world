@@ -39,7 +39,7 @@ jobs:
         - run: cat ~/output.txt
 workflows:
   # Name the workflow "welcome"
-  welcome:
+  my_workflow:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
